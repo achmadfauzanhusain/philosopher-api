@@ -1,5 +1,5 @@
 # Philosopher-API
-mode=development
+mode=development,
 if you have knowledge about philosophy and you analyze about society etc, you can contribute to this project.
 
 ## how to contribute?
