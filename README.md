@@ -1,5 +1,4 @@
 # Open Source Project - Philosopher-API
-mode=development<br>
 if you have knowledge about philosophy and you analyze about society etc, you can contribute to this project.
 
 ## 💓 How to Contribute?
@@ -8,6 +7,7 @@ you can clone this project, add new branch on your local, go to file /json/philo
 ## 🍩 Donate
 if you find this project useful, you can donate me<br>
 **Donate Via :**
+- Bitcoin (BTC): `1CixguteVcJjf6L2fs6t63LxLCwNzzeuH3`
 - Ethereum (ETH): `0x29F19A33c3af612Cb5248D2E208b1113D0898E5b`
 
 ### - fauzanhusain
