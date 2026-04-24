@@ -1,0 +1,2 @@
+# Philosopher-API
+mode=development
