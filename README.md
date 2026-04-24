@@ -1,4 +1,4 @@
-# Philosopher-API
+# Open Source Project - Philosopher-API
 mode=development<br>
 if you have knowledge about philosophy and you analyze about society etc, you can contribute to this project.
 
