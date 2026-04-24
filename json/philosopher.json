@@ -1,20 +1,31 @@
-[
-    {
-        "id": 1,
-        "philosophycal_concept": "Existentialism",
-        "philosopher": "Jean-Paul Sartre",
-        "born": "1905-06-21",
-        "died": "1980-04-15",
-        "description": "Existentialism is a philosophical movement that emphasizes individual freedom, choice, and responsibility. Sartre argued that humans are condemned to be free, meaning that they must create their own meaning in a world without inherent purpose. He believed that individuals must confront the absurdity of existence and make authentic choices to define their own essence. Sartre's existentialism explores themes of alienation, freedom, and the human condition, and it has had a profound influence on literature, psychology, and social theory.",
-        "years_active": "1930s-1980s"
-    },
-    {
-        "id": 2,
-        "philosophycal_concept": "Utilitarianism",
-        "philosopher": "John Stuart Mill",
-        "born": "1806-05-20",
-        "died": "1873-05-08",
-        "description": "Utilitarianism is an ethical theory that posits that the best action is the one that maximizes overall happiness or utility. John Stuart Mill, a prominent utilitarian philosopher, argued that actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the opposite of happiness. Mill's utilitarianism emphasizes the importance of individual rights and the quality of pleasures, distinguishing between higher and lower pleasures. His work has had a significant impact on moral philosophy, economics, and political theory.",
-        "years_active": "1820s-1870s"
-    }
-]
+{ 
+    "philosophers": [
+        {
+            "id": 1,
+            "philosophycal_concept": "Existentialism",
+            "philosopher": "Jean-Paul Sartre",
+            "born": "1905-06-21",
+            "died": "1980-04-15",
+            "description": "Existentialism is a philosophical movement that emphasizes individual freedom, choice, and responsibility. Sartre argued that humans are condemned to be free, meaning that they must create their own meaning in a world without inherent purpose. He believed that individuals must confront the absurdity of existence and make authentic choices to define their own essence. Sartre's existentialism explores themes of alienation, freedom, and the human condition, and it has had a profound influence on literature, psychology, and social theory.",
+            "years_active": "1930s-1980s"
+        },
+        {
+            "id": 2,
+            "philosophycal_concept": "Utilitarianism",
+            "philosopher": "John Stuart Mill",
+            "born": "1806-05-20",
+            "died": "1873-05-08",
+            "description": "Utilitarianism is an ethical theory that posits that the best action is the one that maximizes overall happiness or utility. John Stuart Mill, a prominent utilitarian philosopher, argued that actions are right in proportion as they tend to promote happiness and wrong as they tend to produce the opposite of happiness. Mill's utilitarianism emphasizes the importance of individual rights and the quality of pleasures, distinguishing between higher and lower pleasures. His work has had a significant impact on moral philosophy, economics, and political theory.",
+            "years_active": "1820s-1870s"
+        },
+        {
+            "id": 3,
+            "philosophycal_concept": "Nihilism",
+            "philosopher": "Friedrich Nietzsche",
+            "born": "1844-10-15",
+            "died": "1900-08-25",
+            "description": "Nihilism is a philosophical belief that life lacks inherent meaning, value, or purpose. Friedrich Nietzsche, a key figure in nihilistic thought, argued that traditional values and beliefs have lost their power in the modern world, leading to a sense of despair and meaninglessness. Nietzsche's concept of the 'death of God' symbolizes the decline of religious and moral frameworks, and he explored the implications of this for human existence. Despite his critique of nihilism, Nietzsche also proposed the idea of the 'Übermensch' (Overman) as a way to overcome nihilism and create new values.",
+            "years_active": "1860s-1900s"
+        }
+    ]
+}
