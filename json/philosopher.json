@@ -26,6 +26,114 @@
             "died": "1900-08-25",
             "description": "Nihilism is a philosophical belief that life lacks inherent meaning, value, or purpose. Friedrich Nietzsche, a key figure in nihilistic thought, argued that traditional values and beliefs have lost their power in the modern world, leading to a sense of despair and meaninglessness. Nietzsche's concept of the 'death of God' symbolizes the decline of religious and moral frameworks, and he explored the implications of this for human existence. Despite his critique of nihilism, Nietzsche also proposed the idea of the 'Übermensch' (Overman) as a way to overcome nihilism and create new values.",
             "years_active": "1860s-1900s"
+        },
+        {
+            "id": 4,
+            "philosophycal_concept": "Stoicism",
+            "philosopher": "Marcus Aurelius",
+            "born": "121-04-26",
+            "died": "180-03-17",
+            "description": "Stoicism is a Hellenistic philosophy that teaches the development of self-control and fortitude as a means to overcome destructive emotions. Marcus Aurelius, a Roman emperor and Stoic philosopher, emphasized the importance of rationality, virtue, and acceptance of fate. He believed that individuals should focus on what they can control and accept what they cannot, cultivating inner peace and resilience in the face of adversity. Aurelius's 'Meditations' is a key text in Stoic philosophy, offering insights into his thoughts on ethics, leadership, and the human condition.",
+            "years_active": "161-180"
+        },
+        {
+            "id": 5,
+            "philosophycal_concept": "Transcendentalism",
+            "philosopher": "Ralph Waldo Emerson",
+            "born": "1803-05-25",
+            "died": "1882-04-27",
+            "description": "Transcendentalism is a philosophical movement that emphasizes the inherent goodness of people and nature. Ralph Waldo Emerson, a leading figure in the movement, believed in the importance of individualism, self-reliance, and the connection between the human spirit and the universe. His essays, such as 'Self-Reliance' and 'Nature', are foundational texts in American philosophy and literature.",
+            "years_active": "1830s-1880s"
+        },
+        {
+            "id": 6,
+            "philosophycal_concept": "Phenomenology",
+            "philosopher": "Edmund Husserl",
+            "born": "1859-04-08",
+            "died": "1938-04-27",
+            "description": "Phenomenology is a philosophical movement that focuses on the structures of experience and consciousness. Edmund Husserl, the founder of phenomenology, sought to describe phenomena as they are experienced by individuals, without presuppositions. He introduced the concept of 'intentionality', which refers to the directedness of consciousness towards objects. Husserl's work has had a profound influence on existentialism, hermeneutics, and cognitive science.",
+            "years_active": "1880s-1930s"
+        },
+        {
+            "id": 7,
+            "philosophycal_concept": "Pragmatism",
+            "philosopher": "William James",
+            "born": "1842-01-11",
+            "died": "1910-08-26",
+            "description": "Pragmatism is a philosophical tradition that emphasizes the practical consequences of beliefs and theories as the key to their meaning and truth. William James, a prominent pragmatist, argued that the value of an idea lies in its usefulness and its ability to solve problems. He believed that truth is not an absolute but is instead a process of verification through experience. James's pragmatism has influenced various fields, including psychology, education, and philosophy.",
+            "years_active": "1870s-1910s"
+        },
+        {
+            "id": 8,
+            "philosophycal_concept": "Absurdism",
+            "philosopher": "Albert Camus",
+            "born": "1913-11-07",
+            "died": "1960-01-04",
+            "description": "Absurdism is a philosophical perspective that explores the conflict between humans' desire to find meaning in life and the silent, indifferent universe. Albert Camus, a key figure in absurdist thought, argued that life is inherently meaningless, but that individuals can find value and purpose through their own actions and choices. Camus's works, such as 'The Stranger' and 'The Myth of Sisyphus', delve into themes of existentialism, rebellion, and the human condition.",
+            "years_active": "1930s-1960s"
+        },
+        {
+            "id": 9,
+            "philosophycal_concept": "Structuralism",
+            "philosopher": "Claude Lévi-Strauss",
+            "born": "1908-11-28",
+            "died": "2009-10-30",
+            "description": "Structuralism is a theoretical framework that posits that elements of human culture must be understood in terms of their relationship to a larger, overarching system or structure. Claude Lévi-Strauss, a key figure in structuralist thought, applied this approach to the study of myths, kinship, and language. He argued that human culture is organized around binary oppositions and that these structures shape our understanding of the world.",
+            "years_active": "1930s-2000s"
+        },
+        {
+            "id": 10,
+            "philosophycal_concept": "Postmodernism",
+            "philosopher": "Jean-François Lyotard",
+            "born": "1924-08-10",
+            "died": "1998-04-21",
+            "description": "Postmodernism is a broad intellectual movement that challenges traditional narratives and structures in art, literature, philosophy, and culture. Jean-François Lyotard, a prominent postmodern philosopher, is best known for his work 'The Postmodern Condition', where he critiques grand narratives and emphasizes the fragmentation of knowledge and identity in contemporary society. Lyotard's postmodernism explores themes of skepticism, relativism, and the role of language in shaping our understanding of reality.",
+            "years_active": "1950s-1990s"
+        },
+        {
+            "id": 11,
+            "philosophycal_concept": "Deconstruction",
+            "philosopher": "Jacques Derrida",
+            "born": "1930-07-15",
+            "died": "2004-10-09",
+            "description": "Deconstruction is a philosophical approach that seeks to uncover and challenge the underlying assumptions and binary oppositions in texts and cultural practices. Jacques Derrida, the founder of deconstruction, argued that meaning is not fixed but is instead fluid and contingent on context. He introduced concepts such as 'différance' and 'trace' to illustrate how meaning is always deferred and how texts can be interpreted in multiple ways. Derrida's deconstruction has had a significant impact on literary theory, philosophy, and cultural studies.",
+            "years_active": "1960s-2000s"
+        },
+        {
+            "id": 12,
+            "philosophycal_concept": "Critical Theory",
+            "philosopher": "Theodor Adorno",
+            "born": "1903-09-11",
+            "died": "1969-08-06",
+            "description": "Critical Theory is a social theory that aims to critique and change society as a whole, rather than simply understanding or explaining it. Theodor Adorno, a key figure in the Frankfurt School of Critical Theory, focused on the culture industry and the ways in which mass media and consumer culture can manipulate and control individuals. Adorno's work explores themes of alienation, commodification, and the role of art in society.",
+            "years_active": "1920s-1960s"
+        },
+        {
+            "id": 13,
+            "philosophycal_concept": "Feminist Philosophy",
+            "philosopher": "Simone de Beauvoir",
+            "born": "1908-01-09",
+            "died": "1986-04-14",
+            "description": "Feminist Philosophy is a branch of philosophy that explores the intersection of gender, identity, and social structures. Simone de Beauvoir, a pioneering feminist philosopher, is best known for her work 'The Second Sex', which examines the social construction of womanhood and the oppression of women in patriarchal societies. Her philosophy emphasizes the importance of autonomy, agency, and the recognition of women's experiences.",
+            "years_active": "1930s-1980s"
+        },
+        {
+            "id": 14,
+            "philosophycal_concept": "Analytic Philosophy",
+            "philosopher": "Bertrand Russell",
+            "born": "1872-05-18",
+            "died": "1970-02-02",
+            "description": "Analytic Philosophy is a style of philosophy that emphasizes clarity, precision, and logical analysis. Bertrand Russell, a key figure in the development of analytic philosophy, made significant contributions to logic, philosophy of language, and epistemology. He is known for his work on the theory of descriptions and his advocacy for logical positivism. Russell's analytic philosophy has had a profound influence on contemporary philosophy and the development of formal logic.",
+            "years_active": "1890s-1960s"
+        },
+        {
+            "id": 15,
+            "philosophycal_concept": "Phenomenology of Perception",
+            "philosopher": "Maurice Merleau-Ponty",
+            "born": "1908-03-14",
+            "died": "1961-05-03",
+            "description": "The Phenomenology of Perception is a philosophical work that explores the relationship between perception, embodiment, and consciousness. Maurice Merleau-Ponty, a key figure in phenomenology, argued that perception is not just a passive reception of sensory data but an active engagement with the world. He emphasized the importance of the body in shaping our experience and understanding of reality. Merleau-Ponty's work has had a significant impact on philosophy, psychology, and cognitive science.",
+            "years_active": "1930s-1960s"
         }
     ]
 }
