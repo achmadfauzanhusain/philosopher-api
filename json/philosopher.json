@@ -134,6 +134,96 @@
             "died": "1961-05-03",
             "description": "The Phenomenology of Perception is a philosophical work that explores the relationship between perception, embodiment, and consciousness. Maurice Merleau-Ponty, a key figure in phenomenology, argued that perception is not just a passive reception of sensory data but an active engagement with the world. He emphasized the importance of the body in shaping our experience and understanding of reality. Merleau-Ponty's work has had a significant impact on philosophy, psychology, and cognitive science.",
             "years_active": "1930s-1960s"
+        },
+        {
+            "id": 16,
+            "philosophycal_concept": "Post-Structuralism",
+            "philosopher": "Michel Foucault",
+            "born": "1926-10-15",
+            "died": "1984-06-25",
+            "description": "Post-Structuralism is a theoretical framework that challenges the idea of fixed structures and meanings in language, culture, and society. Michel Foucault, a prominent post-structuralist philosopher, explored the relationship between power, knowledge, and discourse. He argued that power is not just repressive but also productive, shaping our understanding of truth and reality. Foucault's work has had a profound influence on sociology, cultural studies, and critical theory.",
+            "years_active": "1950s-1980s"
+        },
+        {
+            "id": 17,
+            "philosophycal_concept": "Ethical Egoism",
+            "philosopher": "Ayn Rand",
+            "born": "1905-02-02",
+            "died": "1982-03-06",
+            "description": "Ethical Egoism is a normative ethical theory that asserts that individuals should act in their own self-interest. Ayn Rand, a prominent advocate of ethical egoism, argued that rational self-interest is the moral ideal and that altruism is detrimental to human flourishing. Rand's philosophy, known as Objectivism, emphasizes the importance of reason, individualism, and capitalism. Her works, such as 'Atlas Shrugged' and 'The Fountainhead', explore themes of freedom, creativity, and the role of government in society.",
+            "years_active": "1930s-1980s"
+        },
+        {
+            "id": 18,
+            "philosophycal_concept": "Virtue Ethics",
+            "philosopher": "Aristotle",
+            "born": "384 BC",
+            "died": "322 BC",
+            "description": "Virtue Ethics is an ethical theory that emphasizes the development of virtuous character traits as the basis for moral behavior. Aristotle, a foundational figure in virtue ethics, argued that the ultimate goal of human life is eudaimonia, often translated as 'flourishing' or 'happiness'. He believed that virtues, such as courage, temperance, and justice, are cultivated through practice and that moral excellence is achieved by finding the mean between extremes. Aristotle's virtue ethics has had a lasting influence on moral philosophy and continues to be a significant framework for ethical theory.",
+            "years_active": "384 BC - 322 BC"
+        },
+        {
+            "id": 19,
+            "philosophycal_concept": "Social Contract Theory",
+            "philosopher": "Thomas Hobbes",
+            "born": "1588-04-05",
+            "died": "1679-12-04",
+            "description": "Social Contract Theory is a political philosophy that posits that individuals consent, either explicitly or implicitly, to surrender some of their freedoms and submit to the authority of a ruler or government in exchange for protection of their remaining rights. Thomas Hobbes, a key figure in social contract theory, argued that in the state of nature, life would be 'solitary, poor, nasty, brutish, and short' due to the inherent selfishness of humans. He believed that a strong central authority, or Leviathan, is necessary to maintain order and prevent chaos.",
+            "years_active": "1620s-1670s"
+        },
+        {
+            "id": 20,
+            "philosophycal_concept": "Dialectical Materialism",
+            "philosopher": "Karl Marx",
+            "born": "1818-05-05",
+            "died": "1883-03-14",
+            "description": "Dialectical Materialism is a philosophical framework that combines dialectics, the idea that change occurs through the conflict of opposites, with materialism, the belief that material conditions and economic factors are the primary influences on society and history. Karl Marx, the founder of dialectical materialism, argued that history is driven by class struggle and that capitalism will eventually be replaced by socialism and communism. Marx's philosophy has had a profound impact on political theory, economics, and social movements around the world.",
+            "years_active": "1840s-1880s"
+        },
+        {
+            "id": 21,
+            "philosophycal_concept": "Logical Positivism",
+            "philosopher": "A.J. Ayer",
+            "born": "1910-10-29",
+            "died": "1989-06-27",
+            "description": "Logical Positivism is a philosophical movement that asserts that only statements that can be empirically verified or are tautologically true are meaningful. A.J. Ayer, a prominent logical positivist, argued that metaphysical and ethical statements are devoid of meaning because they cannot be empirically tested. Ayer's work, particularly his book 'Language, Truth, and Logic', has had a significant influence on the philosophy of language and the development of analytic philosophy.",
+            "years_active": "1930s-1980s"
+        },
+        {
+            "id": 22,
+            "philosophycal_concept": "Existential Phenomenology",
+            "philosopher": "Jean-Paul Sartre",
+            "born": "1905-06-21",
+            "died": "1980-04-15",
+            "description": "Existential Phenomenology is a philosophical approach that combines existentialism and phenomenology to explore the nature of human existence and experience. Jean-Paul Sartre, a key figure in existential phenomenology, argued that individuals are free to create their own meaning in a world that is inherently meaningless. He emphasized the importance of authenticity, choice, and responsibility in shaping one's existence. Sartre's existential phenomenology has had a profound influence on literature, psychology, and social theory.",
+            "years_active": "1930s-1980s"
+        },
+        {
+            "id": 23,
+            "philosophycal_concept": "Postcolonialism",
+            "philosopher": "Edward Said",
+            "born": "1935-11-01",
+            "died": "2003-09-25",
+            "description": "Postcolonialism is a theoretical framework that examines the cultural, political, and economic legacies of colonialism and imperialism. Edward Said, a key figure in postcolonial thought, is best known for his work 'Orientalism', where he critiques Western representations of the East and argues that these representations serve to justify colonial domination. Said's postcolonialism explores themes of identity, power, and resistance, and it has had a significant impact on literary theory, cultural studies, and political discourse.",
+            "years_active": "1960s-2000s"
+        },
+        {
+            "id": 24,
+            "philosophycal_concept": "Eco-Philosophy",
+            "philosopher": "Arne Naess",
+            "born": "1912-01-27",
+            "died": "2009-01-12",
+            "description": "Eco-Philosophy is a philosophical approach that emphasizes the intrinsic value of nature and the interconnectedness of all living beings. Arne Naess, a key figure in eco-philosophy, is best known for his concept of 'deep ecology', which advocates for a radical shift in human attitudes towards the environment. Naess argued that humans should recognize their place within the natural world and work towards sustainability and ecological balance. His eco-philosophy has had a significant influence on environmental ethics and activism.",
+            "years_active": "1950s-2000s"
+        },
+        {
+            "id": 25,
+            "philosophycal_concept": "Philosophy of Mind",
+            "philosopher": "David Chalmers",
+            "born": "1966-04-20",
+            "died": null,
+            "description": "The Philosophy of Mind is a branch of philosophy that explores the nature of consciousness, mental states, and the relationship between the mind and the body. David Chalmers, a prominent philosopher of mind, is best known for his formulation of the 'hard problem of consciousness', which questions how and why subjective experiences arise from physical processes in the brain. Chalmers's work has had a significant impact on cognitive science, neuroscience, and the study of consciousness.",
+            "years_active": "1990s-present"
         }
     ]
 }
