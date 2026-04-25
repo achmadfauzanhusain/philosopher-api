@@ -13,10 +13,16 @@ if you find this project useful, you can donate me<br>
 ### - fauzanhusain
 
 ## ⚡️ Quick Start
-**getAllPhilosophers()**<br>
-`/philosopher/all`
+**getAllPopularPhilosophers()**<br>
+`/philosopher/popular/all`
 
-**getDetailPhilosopher(id)**<br>
-`/philosopher/${id}`
+**getDetailPopularPhilosopher(id)**<br>
+`/philosopher/popular/${id}`
+
+**getAllNichePhilosophers()**<br>
+`/philosopher/niche/all`
+
+**getDetailNichePhilosopher(id)**<br>
+`/philosopher/niche/${id}`
 
 its still development phase
