@@ -4,7 +4,8 @@ const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 
 const testRouter = require('./app/test/router');
-const philospherRouter = require('./app/philosopher/router');
+const philospherRouter = require('./app/popular/router');
+const nicheRouter = require('./app/niche/router');
 
 const app = express();
 
@@ -15,5 +16,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/test', testRouter);
-app.use('/philosopher', philospherRouter);
+app.use('/philosopher/popular', philospherRouter);
+app.use('/philosopher/niche', nicheRouter);
+
 module.exports = app;

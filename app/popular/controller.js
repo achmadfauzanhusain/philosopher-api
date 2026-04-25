@@ -1,7 +1,7 @@
 const { philosophers } = require("../../json/philosopher.json")
 
 module.exports = {
-    getAllPhilosophers: async(req, res) => {
+    getAllPopularPhilosophers: async(req, res) => {
         try {
             res.status(200).json({
                 message: "success!",
@@ -11,7 +11,7 @@ module.exports = {
             res.status(500).json({ message: "Internal server error" });
         }
     },
-    getDetailPhilosopher: async(req, res) => {
+    getDetailPopularPhilosopher: async(req, res) => {
         try {
             const { id } = req.params
             const philosopher = philosophers.find(p => p.id === parseInt(id))
