@@ -1,5 +1,13 @@
 {
     "niche": [
-        
+        {
+            "id": 1,
+            "philosophycal_concept": "Example of a niche philosophical concept",
+            "philosopher": "fauzan husain",
+            "born": "2006-08-13",
+            "died": "now",
+            "description": "lorem ipsum dolor sit amet conscectur",
+            "years_active": "2026"
+        }
     ]
 }
