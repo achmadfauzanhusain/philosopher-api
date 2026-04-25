@@ -224,6 +224,51 @@
             "died": null,
             "description": "The Philosophy of Mind is a branch of philosophy that explores the nature of consciousness, mental states, and the relationship between the mind and the body. David Chalmers, a prominent philosopher of mind, is best known for his formulation of the 'hard problem of consciousness', which questions how and why subjective experiences arise from physical processes in the brain. Chalmers's work has had a significant impact on cognitive science, neuroscience, and the study of consciousness.",
             "years_active": "1990s-present"
+        },
+        {
+            "id": 26,
+            "philosophycal_concept": "Philosophy of Language",
+            "philosopher": "Ludwig Wittgenstein",
+            "born": "1889-04-26",
+            "died": "1951-04-29",
+            "description": "The Philosophy of Language is a branch of philosophy that examines the nature of language, meaning, and communication. Ludwig Wittgenstein, a key figure in the philosophy of language, made significant contributions to our understanding of how language functions and how meaning is derived. His early work, 'Tractatus Logico-Philosophicus', proposed that language mirrors reality, while his later work, 'Philosophical Investigations', emphasized the use of language in social contexts and the idea of 'language games'. Wittgenstein's philosophy of language has had a profound influence on analytic philosophy and linguistics.",
+            "years_active": "1910s-1950s"
+        },
+        {
+            "id": 27,
+            "philosophycal_concept": "Philosophy of Science",
+            "philosopher": "Karl Popper",
+            "born": "1902-07-28",
+            "died": "1994-09-17",
+            "description": "The Philosophy of Science is a branch of philosophy that explores the foundations, methods, and implications of science. Karl Popper, a key figure in the philosophy of science, is best known for his principle of falsifiability, which asserts that scientific theories must be testable and capable of being proven false. Popper argued that scientific knowledge progresses through a process of conjectures and refutations, where theories are proposed and then subjected to rigorous testing. His philosophy of science has had a significant impact on the scientific method and the demarcation between science and non-science.",
+            "years_active": "1930s-1990s"
+        },
+        {
+            "id": 28,
+            "philosophycal_concept": "Philosophy of Religion",
+            "philosopher": "St. Thomas Aquinas",
+            "born": "1225-01-28",
+            "died": "1274-03-07",
+            "description": "The Philosophy of Religion is a branch of philosophy that explores questions regarding religion, including the nature and existence of God, the problem of evil, and the relationship between faith and reason. St. Thomas Aquinas, a key figure in the philosophy of religion, is best known for his 'Five Ways', which are arguments for the existence of God based on observation and reason. Aquinas's philosophy of religion integrates Aristotelian philosophy with Christian theology and has had a profound influence on Western thought.",
+            "years_active": "1240s-1270s"
+        },
+        {
+            "id": 29,
+            "philosophycal_concept": "Philosophy of History",
+            "philosopher": "Georg Wilhelm Friedrich Hegel",
+            "born": "1770-08-27",
+            "died": "1831-11-14",
+            "description": "The Philosophy of History is a branch of philosophy that examines the nature of history, historical events, and the meaning of historical processes. Georg Wilhelm Friedrich Hegel, a key figure in the philosophy of history, proposed that history unfolds through a dialectical process where contradictions are resolved to create progress. Hegel believed that history is the manifestation of the World Spirit and that it moves towards greater freedom and self-awareness. His philosophy of history has had a significant influence on historical theory and the study of historical development.",
+            "years_active": "1800s-1830s"
+        },
+        {
+            "id": 30,
+            "philosophycal_concept": "Philosophy of Art",
+            "philosopher": "Arthur Danto",
+            "born": "1924-01-01",
+            "died": "2013-10-25",
+            "description": "The Philosophy of Art is a branch of philosophy that explores the nature of art, aesthetic experience, and the value of artistic expression. Arthur Danto, a key figure in the philosophy of art, is best known for his concept of the 'artworld', which refers to the cultural and institutional context in which art is created and appreciated. Danto argued that what distinguishes art from non-art is not its physical properties but its meaning and significance within the artworld. His philosophy of art has had a significant impact on aesthetics and the understanding of contemporary art.",
+            "years_active": "1950s-2000s"
         }
     ]
 }

@@ -13,7 +13,10 @@ if you find this project useful, you can donate me<br>
 ### - fauzanhusain
 
 ## ⚡️ Quick Start
-**getAllPhilosophers()**
+**getAllPhilosophers()**<br>
 `/philosopher/all`
+
+**getDetailPhilosopher(id)**<br>
+`/philosopher/${id}`
 
 its still development phase
