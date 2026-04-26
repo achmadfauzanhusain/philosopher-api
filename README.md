@@ -29,5 +29,5 @@ base url: `https://philosopher-api.vercel.app`
 `/philosopher/niche/${id}`
 
 
-### THANK YOU ###
+# THANK YOU ###
 
