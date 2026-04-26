@@ -13,6 +13,9 @@ if you find this project useful, you can donate me<br>
 ### - fauzanhusain
 
 ## ⚡️ Quick Start
+
+base url: `https://philosopher-api.vercel.app`
+
 **getAllPopularPhilosophers()**<br>
 `/philosopher/popular/all`
 
@@ -25,4 +28,6 @@ if you find this project useful, you can donate me<br>
 **getDetailNichePhilosopher(id)**<br>
 `/philosopher/niche/${id}`
 
-its still development phase
+
+### THANK YOU ###
+
